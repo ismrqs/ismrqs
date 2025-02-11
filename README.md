@@ -1,4 +1,4 @@
-## <div align="center"> 👋 Olá! Eu sou a  `@is13aug`, seja muito bem-vindo ao meu `perfil do GitHub` >< </div>
+## <div align="center"> 👋 Olá! Eu sou a  `@is13aug`, seja muito bem-vindo ao meu `perfil` do GitHub >< </div>
 
 ![Image](https://github.com/user-attachments/assets/8913fce3-a7b2-4359-b3bd-eec6ac421aa8)
 
