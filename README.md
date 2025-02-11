@@ -1,16 +1,13 @@
-## Hi there 👋
+## <div align="center"> 👋 Olá! Eu sou a  `@is13aug`, seja muito bem-vindo ao meu `perfil do GitHub` >< </div>
 
-<!--
-**is13aug/is13aug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Image](https://github.com/user-attachments/assets/8913fce3-a7b2-4359-b3bd-eec6ac421aa8)
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B05DB1&width=435&separator=%3C&lines=SELECT+nome+FROM+dev+WHERE+nome+%3D+'Isabely';%3Cprint('Hello%2C+World!');%3Cecho+%22Hello%2C+World!%22;%3CSystem.out.println(%22Hello%2C+World!%22);%3Cconsole.log(%22Hello%2C+World!%22);" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  
+- 💻 Atuo como desenvolvedora full-stack, tendo experiência prática tanto no front-end quanto no back-end;
+- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);
+- 🔒 Paralelamente ao desenvolvimento full-stack, mantenho um forte interesse na área de cibersegurança e de computação em nuvem.
+
+</div>
