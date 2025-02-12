@@ -29,7 +29,7 @@
 <!-- Link para o repositório AppRestaurante -->
 <a href="https://github.com/is13aug/AppRestaurante">
     <picture>
-        <img style="width=30%"; src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=is13aug&repo=AppRestaurante&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=is13aug&repo=AppRestaurante&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
     </picture>
 </a>
 
