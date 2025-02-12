@@ -1,11 +1,11 @@
-## <div align="center"> 👋 Olá! Eu sou a  `@is13aug`, seja muito bem-vindo ao meu `perfil` do GitHub >< </div>
+## <div align="center"> 👋 Olá! Eu sou a  `@ismrqs`, seja muito bem-vindo ao meu `perfil` do GitHub >< </div>
 
 ![Image](https://github.com/user-attachments/assets/8913fce3-a7b2-4359-b3bd-eec6ac421aa8)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B05DB1&width=435&separator=%3C&lines=SELECT+nome+FROM+dev+WHERE+nome+%3D+'Isabely';%3Cprint('Hello%2C+World!');%3Cecho+%22Hello%2C+World!%22;%3CSystem.out.println(%22Hello%2C+World!%22);%3Cconsole.log(%22Hello%2C+World!%22);" alt="Typing SVG" /></a>
 
 <div>
-  <img align="right" alt="is13aug" width="230" height="230" src="https://github.com/user-attachments/assets/e1d69b52-878e-49ec-a9a5-843fc4b5e294">
+  <img align="right" alt="ismrqs" width="230" height="230" src="https://github.com/user-attachments/assets/e1d69b52-878e-49ec-a9a5-843fc4b5e294">
   
 - 💻 Atuo como desenvolvedora full-stack, tendo experiência prática tanto no front-end quanto no back-end;
   
@@ -20,28 +20,28 @@
 <div align="center">
 
 <!-- Link para o repositório ProjetoMatrizTeatro -->
-<a href="https://github.com/is13aug/ProjetoMatrizTeatro">
+<a href="https://github.com/ismrqs/ProjetoMatrizTeatro">
     <picture>
-        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=is13aug&repo=ProjetoMatrizTeatro&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=ProjetoMatrizTeatro&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
     </picture>
 </a>
 
 <!-- Link para o repositório AppRestaurante -->
-<a href="https://github.com/is13aug/AppRestaurante">
+<a href="https://github.com/ismrqs/AppRestaurante">
     <picture>
         <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=is13aug&repo=AppRestaurante&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
     </picture>
 </a>
 
 <!-- Link para o repositório MITimc -->
-<a href="https://github.com/is13aug/ProjetoHotelCheckOut">
+<a href="https://github.com/ismrqs/ProjetoHotelCheckOut">
     <picture>
-        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=is13aug&repo=ProjetoHotelCheckOut&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=ProjetoHotelCheckOut&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
     </picture>
 </a>
 
 <p align="center"><br>
-    <a href="https://github.com/is13aug?tab=repositories">
+    <a href="https://github.com/ismrqs?tab=repositories">
         <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/Clique%20Aqui%20para%20Ver%20Todos%20Os%20Meus%20Reposit%C3%B3rios-B05DB1?style=for-the-badge&logoColor=ffffff&logo=repo" alt="Todos os repositórios" title="Todos os repositórios">
     </a>
 </p>
