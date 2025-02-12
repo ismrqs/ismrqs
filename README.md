@@ -11,37 +11,25 @@
   
 - 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);
   
-- 🔒 Paralelamente à área de desenvolvimento, mantenho um forte interesse na área de cibersegurança e de computação em nuvem!
+- 🔒 Paralelamente à área de desenvolvimento, mantenho uma forte curiosidade no ramo da cibersegurança e da computação em nuvem!
 </div>
 
 ### 👩‍💻 Desenvolvendo em:
 
-<table align="center">
-    <tr>
-        <td align="center">
-            <a href="https://www.python.org/" target="_blank">
-                <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/f21effe1-0a8b-49b9-9c46-3be4cdbb486a" alt="Python Logo"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://www.php.net/" target="_blank">
-                <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/ac38dcc4-c399-4eec-9016-2176852fb138" alt="PHP Logo"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://www.mysql.com/" target="_blank">
-                <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/c3b42984-1066-4d16-b714-cebd38f6b44b" alt="MySQL Logo"/>
-            </a>
-        </td>
-              </td>
-        <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/3815f1f0-7f56-4892-af6f-3880ce7b5d47" alt="JavaScript Logo"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://nodejs.org/" target="_blank">
-                <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/ade30ab4-d2a7-4e7d-bdca-e8ceeabcd47e" alt="Node.js Logo"/>
-            </a>
-    </tr>
-</table>
+<div align="center">
+    <a href="https://www.python.org/" target="_blank">
+        <img style="width: 100px; margin: 0 10px;" src="https://github.com/user-attachments/assets/f21effe1-0a8b-49b9-9c46-3be4cdbb486a" alt="Python Logo"/>
+    </a>
+    <a href="https://www.php.net/" target="_blank">
+        <img style="width: 100px; margin: 0 10px;" src="https://github.com/user-attachments/assets/ac38dcc4-c399-4eec-9016-2176852fb138" alt="PHP Logo"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img style="width: 100px; margin: 0 10px;" src="https://github.com/user-attachments/assets/c3b42984-1066-4d16-b714-cebd38f6b44b" alt="MySQL Logo"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img style="width: 100px; margin: 0 10px;" src="https://github.com/user-attachments/assets/3815f1f0-7f56-4892-af6f-3880ce7b5d47" alt="JavaScript Logo"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img style="width: 100px; margin: 0 10px;" src="https://github.com/user-attachments/assets/ade30ab4-d2a7-4e7d-bdca-e8ceeabcd47e" alt="Node.js Logo"/>
+    </a>
+</div>
