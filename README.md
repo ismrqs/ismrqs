@@ -55,31 +55,26 @@
         <td align="center">
             <a href="https://www.python.org/" target="_blank">
                 <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/f21effe1-0a8b-49b9-9c46-3be4cdbb486a" alt="Python Logo"/>
-                <br>Python
             </a>
         </td>
         <td align="center">
             <a href="https://www.php.net/" target="_blank">
                 <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/ac38dcc4-c399-4eec-9016-2176852fb138" alt="PHP Logo"/>
-                <br>PHP
             </a>
         </td>
         <td align="center">
             <a href="https://www.mysql.com/" target="_blank">
                 <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/0a8b6285-f0a1-428a-9b30-1286517cba9b" alt="MySQL Logo"/>
-                <br>MySQL
             </a>
         </td>
         <td align="center">
             <a href="https://nodejs.org/" target="_blank">
                 <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/ade30ab4-d2a7-4e7d-bdca-e8ceeabcd47e" alt="Node.js Logo"/>
-                <br>Node.js
             </a>
         </td>
         <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
                 <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/3815f1f0-7f56-4892-af6f-3880ce7b5d47" alt="JavaScript Logo"/>
-                <br>JavaScript
             </a>
         </td>
     </tr>
