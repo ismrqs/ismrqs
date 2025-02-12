@@ -64,18 +64,18 @@
         </td>
         <td align="center">
             <a href="https://www.mysql.com/" target="_blank">
-                <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/0a8b6285-f0a1-428a-9b30-1286517cba9b" alt="MySQL Logo"/>
+                <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/c3b42984-1066-4d16-b714-cebd38f6b44b" alt="MySQL Logo"/>
+            </a>
+        </td>
+              </td>
+        <td align="center">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+                <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/3815f1f0-7f56-4892-af6f-3880ce7b5d47" alt="JavaScript Logo"/>
             </a>
         </td>
         <td align="center">
             <a href="https://nodejs.org/" target="_blank">
                 <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/ade30ab4-d2a7-4e7d-bdca-e8ceeabcd47e" alt="Node.js Logo"/>
             </a>
-        </td>
-        <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                <img style="width: 100%; max-width: 100px;" src="https://github.com/user-attachments/assets/3815f1f0-7f56-4892-af6f-3880ce7b5d47" alt="JavaScript Logo"/>
-            </a>
-        </td>
     </tr>
 </table>
