@@ -7,11 +7,11 @@
 <div>
   <img align="right" alt="ismrqs" width="230" height="230" src="https://github.com/user-attachments/assets/e1d69b52-878e-49ec-a9a5-843fc4b5e294">
   
-- 💻 Atuo como desenvolvedora full-stack, tendo experiência prática tanto no front-end quanto no back-end;
+- 💻 Tenho interesse no desenvolvimento full-stack, tendo experiência prática tanto no front-end quanto no back-end;
   
-- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);
+- 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);
   
-- 🔒 Paralelamente ao desenvolvimento full-stack, mantenho um forte interesse na área de cibersegurança e de computação em nuvem.
+- 🔒 Paralelamente à área de desenvolvimento, mantenho um forte interesse na área de cibersegurança e de computação em nuvem!
 </div>
 
 
