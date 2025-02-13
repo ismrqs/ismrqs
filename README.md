@@ -45,7 +45,7 @@
 
 <p align="center"><br>
     <a href="https://github.com/ismrqs?tab=repositories">
-        <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/Clique%20Aqui%20para%20Ver%20Todos%20Os%20Meus%20Reposit%C3%B3rios-B05DB1?style=for-the-badge&logoColor=ffffff&logo=repo" alt="Todos os repositórios" title="Todos os repositórios">
+        <img width="40%" src="https://custom-icon-badges.demolab.com/badge/Clique%20Aqui%20para%20Ver%20Todos%20Os%20Meus%20Reposit%C3%B3rios-B05DB1?style=for-the-badge&logoColor=ffffff&logo=repo" alt="Todos os repositórios" title="Todos os repositórios">
     </a>
 </p>
 
