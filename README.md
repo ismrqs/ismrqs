@@ -14,6 +14,16 @@
 - 🔒 Paralelamente à área de desenvolvimento, mantenho uma forte curiosidade no ramo da cibersegurança e da computação em nuvem!
 </div>
 
+
+### 📊 Estatísticas:
+<div align="center">
+  <a href="https://github.com/ismrqs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismrqs&show_icons=true&theme=nightowl&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismrqs&layout=compact&langs_count=7&theme=nightowl&title_color=8A2BE2&text_color=FFFFFF&bg_color=000000" alt="Linguagens mais usadas" width="300" />
+  </a>
+</div>
+
+
 ### 👩‍💻 Desenvolvendo em:
 
 <table align="center">
