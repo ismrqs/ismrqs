@@ -25,21 +25,21 @@
 <!-- Link para o repositório ProjetoMatrizTeatro -->
 <a href="https://github.com/ismrqs/ProjetoMatrizTeatro">
     <picture>
-        <img width="33.33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=ProjetoMatrizTeatro&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+        <img width="33.32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=ProjetoMatrizTeatro&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
     </picture>
 </a>
 
 <!-- Link para o repositório AppRestaurante -->
 <a href="https://github.com/ismrqs/AppRestaurante">
     <picture>
-        <img width="33.33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=AppRestaurante&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+        <img width="33.32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=AppRestaurante&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
     </picture>
 </a>
 
 <!-- Link para o repositório MITimc -->
 <a href="https://github.com/ismrqs/ProjetoHotelCheckOut">
     <picture>
-        <img width="33.33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=ProjetoHotelCheckOut&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+        <img width="33.32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=ProjetoHotelCheckOut&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
     </picture>
 </a>
 
