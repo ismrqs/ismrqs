@@ -62,7 +62,7 @@
 </div>
 
 
-### 👩‍💻 Desenvolvendo em:
+### 👩‍💻 Estudando:
 
 <table align="center">
     <tr>
