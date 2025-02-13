@@ -11,7 +11,7 @@
 <div>
   <img align="right" alt="ismrqs" width="230" height="230" src="https://github.com/user-attachments/assets/e1d69b52-878e-49ec-a9a5-843fc4b5e294">
   
-- 💻 Tenho preferência por atuar no back-end, mas também possuo experiência prática no front-end, trabalhando como full-stack.
+- 💻 Tenho preferência por atuar no back-end, mas também possuo experiência prática no front-end.
   
 - 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);
   
@@ -32,7 +32,7 @@
 <!-- Link para o repositório AppRestaurante -->
 <a href="https://github.com/ismrqs/AppRestaurante">
     <picture>
-        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=is13aug&repo=AppRestaurante&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=AppRestaurante&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
     </picture>
 </a>
 
