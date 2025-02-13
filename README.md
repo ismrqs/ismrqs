@@ -18,9 +18,10 @@
 ### 📊 Estatísticas:
 
 <div align="center" style="border:1px solid">
-  <a href="https://github.com/ismrqs">
-  <img height="180em" width="" src="https://github-readme-stats.vercel.app/api?username=ismrqs&show_icons=true&theme=nightowl&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismrqs&layout=compact&langs_count=7&theme=nightowl&title_color=8A2BE2&text_color=FFFFFF&bg_color=000000" alt="Linguagens mais usadas"/>
+  <a href="https://github.com/ismrqs" style="display: inline-block;">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ismrqs&show_icons=true&theme=nightowl&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" style="margin-right: 10px;" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismrqs&layout=compact&langs_count=7&theme=nightowl&title_color=8A2BE2&text_color=FFFFFF&bg_color=000000" alt="Linguagens mais usadas" />
+  </a>
 </div>
 
 
