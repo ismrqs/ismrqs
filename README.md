@@ -14,14 +14,37 @@
 - 🔒 Paralelamente à área de desenvolvimento, mantenho uma forte curiosidade no ramo da cibersegurança e da computação em nuvem!
 </div>
 
+### 💜 Em destaque:
 
-### 📊 Estatísticas:
+<div align="center">
 
-<div align="center" style="border:1px solid">
-  <a href="https://github.com/ismrqs" style="display: inline-block;">
-    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ismrqs&show_icons=true&theme=nightowl&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true"alt="Estatísticas do GitHub" style="margin-right: 10px;" />
-    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismrqs&layout=compact&langs_count=7&theme=nightowl&title_color=8A2BE2&text_color=FFFFFF&bg_color=000000" alt="Linguagens mais usadas" />
-  </a>
+<!-- Link para o repositório ProjetoMatrizTeatro -->
+<a href="https://github.com/ismrqs/ProjetoMatrizTeatro">
+    <picture>
+        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=ProjetoMatrizTeatro&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+    </picture>
+</a>
+
+<!-- Link para o repositório AppRestaurante -->
+<a href="https://github.com/ismrqs/AppRestaurante">
+    <picture>
+        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=is13aug&repo=AppRestaurante&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+    </picture>
+</a>
+
+<!-- Link para o repositório MITimc -->
+<a href="https://github.com/ismrqs/ProjetoHotelCheckOut">
+    <picture>
+        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ismrqs&repo=ProjetoHotelCheckOut&theme=react&bg_color=69376a&title_color=ffffff&border_color=8E3A8F&icon_color=D9A3DA&show_icons=true">
+    </picture>
+</a>
+
+<p align="center"><br>
+    <a href="https://github.com/ismrqs?tab=repositories">
+        <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/Clique%20Aqui%20para%20Ver%20Todos%20Os%20Meus%20Reposit%C3%B3rios-B05DB1?style=for-the-badge&logoColor=ffffff&logo=repo" alt="Todos os repositórios" title="Todos os repositórios">
+    </a>
+</p>
+
 </div>
 
 
@@ -56,3 +79,12 @@
             </a>
     </tr>
 </table>
+
+### 📊 Estatísticas:
+
+<div align="center" style="border:1px solid">
+  <a href="https://github.com/ismrqs" style="display: inline-block;">
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ismrqs&show_icons=true&theme=nightowl&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true"alt="Estatísticas do GitHub" style="margin-right: 10px;" />
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismrqs&layout=compact&langs_count=7&theme=nightowl&title_color=8A2BE2&text_color=FFFFFF&bg_color=000000" alt="Linguagens mais usadas" />
+  </a>
+</div>
