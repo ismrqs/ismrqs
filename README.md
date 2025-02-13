@@ -18,8 +18,8 @@
 ### 📊 Estatísticas:
 <div align="center">
   <a href="https://github.com/ismrqs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismrqs&show_icons=true&theme=nightowl&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="200" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismrqs&layout=compact&langs_count=7&theme=nightowl&title_color=8A2BE2&text_color=FFFFFF&bg_color=000000" alt="Linguagens mais usadas" width="100" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismrqs&show_icons=true&theme=nightowl&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismrqs&layout=compact&langs_count=7&theme=nightowl&title_color=8A2BE2&text_color=FFFFFF&bg_color=000000" alt="Linguagens mais usadas" width="200" />
   </a>
 </div>
 
