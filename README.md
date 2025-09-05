@@ -13,7 +13,7 @@
   
 - 💻 Tenho preferência por atuar no back-end, mas também possuo experiência prática no front-end.
   
-- 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP);
+- 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP;
   
 - 🔒 Paralelamente à área de desenvolvimento, mantenho um forte interesse no ramo da cibersegurança e da computação em nuvem!
 </div>
