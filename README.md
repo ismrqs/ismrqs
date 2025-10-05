@@ -15,7 +15,7 @@
   
 - 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP;
   
-- 🔒 Paralelamente à área de desenvolvimento, mantenho um forte interesse no ramo da cibersegurança e da computação em nuvem!
+- 🔒 Paralelamente à área de desenvolvimento, mantenho um forte interesse no ramo da cibersegurança, da computação em nuvem e de dados!
 </div>
 
 ### 💜 Em destaque:
